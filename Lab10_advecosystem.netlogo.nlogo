@@ -1,8 +1,5 @@
 ; Author: Chelsea Gemza
-; Date: November 20, 2022
 ; Title: Lab10: Advanced Ecosystem
-; Course Number: CSCI 1108
-; Course Title: CS for All: Introduction to Computer Modeling
 
 globals
 [
